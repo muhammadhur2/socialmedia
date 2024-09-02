@@ -78,6 +78,7 @@ This will start the React app, the Node.js API, and the MongoDB server in indivi
 To contribute to this project:
 
 Fork the repository
+
 Create your feature branch (`git checkout -b feature/fooBar`)
 Commit your changes (`git commit -am 'Add some fooBar'`)
 Push to the branch (`git push origin feature/fooBar`)
