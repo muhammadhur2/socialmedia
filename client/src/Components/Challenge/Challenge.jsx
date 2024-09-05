@@ -97,7 +97,7 @@ const ChallengeDetailPage = () => {
             <small> Updated: {new Date(challenge.updatedAt).toLocaleString()}</small>
           </p>
           <p className="card-text">
-            <strong>Author: </strong> 
+            <strong>Author:  </strong> 
             <Link to={`/profile/${challenge.author._id}`} className="text-primary">
               {challenge.author.name}
             </Link>
